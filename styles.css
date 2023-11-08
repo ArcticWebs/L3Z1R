@@ -1,0 +1,27 @@
+body {
+  display: flex;
+}
+.styl1 {
+  width: 200px;
+  height: 200px;
+  display: inline;
+}
+
+.styl2 {
+  width: 600px;
+  height: 200px;
+  background-color: darkslateblue;
+  display: block;
+}
+
+.div1 {
+  background-color: darkolivegreen;
+}
+
+.div2 {
+  background-color: darkgreen;
+}
+
+.div3 {
+  background-color: darkslategray;
+}
