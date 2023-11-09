@@ -1,27 +1,24 @@
-body {
-  display: flex;
-}
-.styl1 {
+.small-box {
   width: 200px;
   height: 200px;
-  display: inline;
+  display: inline-block;
 }
 
-.styl2 {
+.big-box {
   width: 600px;
   height: 200px;
   background-color: darkslateblue;
   display: block;
 }
 
-.div1 {
+.dark-olive {
   background-color: darkolivegreen;
 }
 
-.div2 {
+.dark-green {
   background-color: darkgreen;
 }
 
-.div3 {
+.dark-grey {
   background-color: darkslategray;
 }
